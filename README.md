@@ -4,7 +4,11 @@
 
 ### Purpose
 
+This is a summary DataFrame of the key metrics for the ride-sharing data by city type which includes a multiple-line graph that shows the total fares for each week by each city type. A report of the analysis is shown below.
+
 ### Technical Analysis
+
+The analyis was carried out in Python 3.7.6 using Jupyter Notebook 6.0.3 (Windows 7 Home Edition).
 
 ### Results
 
